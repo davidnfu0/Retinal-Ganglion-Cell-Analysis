@@ -1,0 +1,2 @@
+- This folder contains the notebooks through which the analysis has been conducted. 
+- Each notebook contains a description of its objective.

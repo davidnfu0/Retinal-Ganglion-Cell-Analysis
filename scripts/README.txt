@@ -1,0 +1,2 @@
+- This folder contains scripts with code used for the analysis.
+- Each file contains a description of what it does.

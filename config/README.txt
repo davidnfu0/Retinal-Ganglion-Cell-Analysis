@@ -1,0 +1,3 @@
+- This folder contains the configuration files for the analysis, in YAML format.
+- In 'general_config.yml', all paths to the different files and folders used in the analysis are defined, along with some general parameters.
+- In 'clustering_control_panel.yml', there is a control panel that manages which clustering models are executed.
