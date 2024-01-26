@@ -1,0 +1,24 @@
+all_stim:
+  agglomerative: false
+  dbscan: false
+  gmm: false
+  hdbscan: false
+  k-means: true
+func:
+  agglomerative: true
+  dbscan: false
+  gmm: false
+  hdbscan: false
+  k-means: true
+only_chirp:
+  agglomerative: true
+  dbscan: false
+  gmm: false
+  hdbscan: false
+  k-means: true
+poly:
+  agglomerative: false
+  dbscan: false
+  gmm: false
+  hdbscan: false
+  k-means: false

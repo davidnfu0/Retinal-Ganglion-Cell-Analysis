@@ -1,0 +1,4 @@
+*.pkl
+data/*
+!data/README.txt
+__pycache__/

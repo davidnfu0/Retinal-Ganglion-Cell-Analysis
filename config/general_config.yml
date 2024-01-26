@@ -1,0 +1,53 @@
+paths:
+  data:
+    result_merged: /data/MR-0387.result-merged.hdf5
+    event_list: /data/MR-0387.event_list.csv
+    chirp_event_list: /data/MR-0387.sub_event_list_chirp.csv
+    start_end_frames: /data/MR-0387.start_end_frames.txt
+    stim_data: /data/MR-0387.checkboard_stim.mat
+    new_event_list: /data/MR-0387.new_event_list.csv
+    stim_df: /data/MR-0387.stim_df.csv
+    stim_pca_df: /data/MR-0387.stim_pca_df.csv
+    chirp_df: /data/MR-0387.chirp_df.csv
+    checkerboard_df: /data/MR-0387.checkerboard_df.csv
+    natural_images_df: /data/MR-0387.natural_images_df.csv
+    ensembles_df: /data/MR-0387.ensembles_df.csv
+    sta_og_df: /data/MR-0387.sta_og_df.csv
+    sta_df: /data/MR-0387.sta_df.csv
+    sta_pca_df: /data/MR-0387.sta_pca_df.csv
+  data_cache:
+    DATA_RFS: /data_cache/DATA_RFS.pkl
+    RFS: /data_cache/RFS.pkl
+    SPT: /data_cache/SPT.pkl
+    STA: /data_cache/STA.pkl
+    T_DATA_STA: /data_cache/T_DATA_STA.pkl
+    S_DATA_STA: /data_cache/S_DATA_STA.pkl
+    TIMESTAMPS: /data_cache/TIMESTAMPS.pkl
+    TOTAL_SPIKES: /data_cache/TOTAL_SPIKES.pkl
+    STIM_DICT: /data_cache/STIM_DICT.pkl
+    BINS_STIM_DICT: /data_cache/BINS_STIM_DICT.pkl
+    FUNC_BANDWIDTH: /data_cache/FUNC_BANDWIDTH.pkl
+    FUNC_HWHH: /data_cache/FUNC_HWHH.pkl
+    FUNC_PEAKS: /data_cache/FUNC_PEAKS.pkl
+    FUNC_ROOTS: /data_cache/FUNC_ROOTS.pkl
+    POLY_BANDWIDTH: /data_cache/POLY_BANDWIDTH.pkl
+    POLY_HWHH: /data_cache/POLY_HWHH.pkl
+    POLY_PEAKS: /data_cache/POLY_PEAKS.pkl
+    POLY_ROOTS: /data_cache/POLY_ROOTS.pkl
+    FUNC_VALUES: /data_cache/FUNC_VALUES.pkl
+    POLY_VALUES: /data_cache/POLY_VALUES.pkl
+    clustering:
+      DFS_NORM: /data_cache/clustering/DFS_NORM.pkl
+      DFS: /data_cache/clustering/DFS.pkl
+      DFS_PCA_2D: /data_cache/clustering/DFS_PCA_2D.pkl
+      DFS_UMAP_2D: /data_cache/clustering/DFS_UMAP_2D.pkl
+      PCAS_2D: /data_cache/clustering/PCAS_2D.pkl
+      UMAPS_2D: /data_cache/clustering/UMAPS_2D.pkl
+      PARAMS: /data_cache/clustering/PARAMS.pkl
+      MODELS: /data_cache/clustering/MODELS.pkl
+      PREDS: /data_cache/clustering/PREDS.pkl
+      CENTROIDS: /data_cache/clustering/CENTROIDS.pkl
+  figures: /results/figures/
+params:
+  FPS: 59.7596
+  FREC_TO_TIME_FACTOR: 20000
