@@ -1,11 +1,11 @@
 all_stim:
-  agglomerative: false
+  agglomerative: true
   dbscan: false
   gmm: false
   hdbscan: false
-  k-means: true
+  k-means: false
 func:
-  agglomerative: true
+  agglomerative: false
   dbscan: false
   gmm: false
   hdbscan: false
@@ -21,4 +21,4 @@ poly:
   dbscan: false
   gmm: false
   hdbscan: false
-  k-means: false
+  k-means: true
