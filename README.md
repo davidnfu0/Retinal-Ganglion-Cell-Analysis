@@ -2,13 +2,24 @@
 
 ---
 
-Organization: [Fundación Ciencia & Vida](https://cienciavida.org/)  
-Supervisor: Cesar Ravello  
-Experiment: Universidad de Valparaíso  
-Code Authors: [Javier Cruz](https://github.com/sisyphvs) & [David Felipe](https://github.com/davidnfu0)  
-Date: January 2024  
+**Organization:** [Fundación Ciencia & Vida](https://cienciavida.org/)  
+**Supervisor:** Cesar Ravello  
+**Experiment:** Universidad de Valparaíso  
+**Code and computacional analysis:** [Javier Cruz](https://github.com/sisyphvs) & [David Felipe](https://github.com/davidnfu0)  
+**Date:** January 2024  
 
-Libraries:
+___
+## Table of contents
+- [Libraries](#libraries)
+- [Description](#description)
+- [Experiment](#experiment)
+- [Requirements](#requirements)
+- [Cloning the repository](#cloning-the-repository)
+- [Running the notebooks](#running-the-notebooks)
+- [Contributing](#contributing)
+___
+
+## Libraries
 - [h5py](https://www.h5py.org/)
 - [ipykernel](https://ipykernel.readthedocs.io/en/stable/)
 - [lmfit](https://lmfit.github.io/lmfit-py/)
@@ -24,11 +35,19 @@ Libraries:
 - [seaborn](https://seaborn.pydata.org/)
 - [umap](https://umap-learn.readthedocs.io/en/latest/)
 
----
 
 ## Description
 
-(...)
+This repository contains a computational analysis of an experiment investigating ganglion cells in the retinas of mice. The analysis includes mathematical modeling of temporal contrast curves and clustering to identify different types of cells. 
+
+The analysis attempts to replicate and expand upon the findings of two different scientific papers:
+ 
+1. Chichilnisky EJ, Kalmar RS. Functional asymmetries in ON and OFF ganglion cells of primate retina. J Neurosci. 2002 Apr 1;22(7):2737-47. doi: 10.1523/JNEUROSCI.22-07-02737.2002. Erratum in: J Neurosci 2002 Oct 1;22(19):1a. PMID: 11923439; PMCID: PMC6758315.
+2. Baden, T., Berens, P., Franke, K. et al. The functional diversity of retinal ganglion cells in the mouse. Nature 529, 345–350 (2016). https://doi.org/10.1038/nature16468
+
+## Experiment
+
+The experiment was carried out by the University of Valparaiso, so we do not have the right to upload the results.
 
 ## Requirements
 
@@ -104,4 +123,13 @@ cd Retinal-Ganglion-Cell-Analysis
     ```
 
 ## Running the notebooks
-(...)
+
+1. Activate the virtual environment.
+2. Run the notebooks in numbered order.
+Some notebooks may take a long time to run.
+
+## Contributing
+
+If you want to contribute to the project by fixing the code or contributing new code, feel free to do so and create a pull request explaining the changes. Remember to update the authorship and modification date of the documents.
+
+If you find an error in any text or in any of the codes, please write an issue. Thank you!
