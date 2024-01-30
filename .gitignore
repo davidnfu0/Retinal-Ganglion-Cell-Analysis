@@ -1,4 +1,5 @@
-*.pkl
+data_cache/*.pkl
+data_cache/clustering/*.pkl
 data/*
 !data/README.txt
 __pycache__/
