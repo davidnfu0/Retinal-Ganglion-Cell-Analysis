@@ -1,0 +1,2 @@
+- This folder stores various clustering models.
+- The purpose of this folder is to hold clustering models that we do not wish to modify.
