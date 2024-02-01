@@ -47,7 +47,7 @@ The analysis attempts to replicate and expand upon the findings of two different
 
 ## Experiment
 
-The experiment was carried out by the University of Valparaiso, so we do not have the right to upload the results.
+The experiment was carried out by the Universidad de Valparaíso, so we do not have the right to upload the results.
 
 ## Requirements
 
